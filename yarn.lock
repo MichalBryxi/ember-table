@@ -43,10 +43,9 @@
   resolved "https://addepar.jfrog.io/addepar/api/npm/npm/@addepar/sass-lint-config/-/sass-lint-config-2.0.1.tgz#b9782ffd6b9c5d267cbc54acb32e5254ca789a12"
   integrity sha1-uXgv/WucXSZ8vFSssy5SVMp4mhI=
 
-"@addepar/style-toolbox@^0.5.0":
+"@addepar/style-toolbox@Addepar/addepar-style-toolbox#cyril/fix-build":
   version "0.5.5"
-  resolved "https://addepar.jfrog.io/addepar/api/npm/npm/@addepar/style-toolbox/-/@addepar/style-toolbox-0.5.5.tgz#8667975098d889ff262827db1461c0aee48ce535"
-  integrity sha1-hmeXUJjYif8mKCfbFGHAruSM5TU=
+  resolved "https://codeload.github.com/Addepar/addepar-style-toolbox/tar.gz/b8a92f510055d2ebd12ecfd2b50e7bd910bcfe4a"
   dependencies:
     autoprefixer "^8.5.1"
     broccoli-file-creator "^1.1.1"
@@ -5931,7 +5930,7 @@ esdoc-ecmascript-proposal-plugin@^1.0.0:
   resolved "https://registry.yarnpkg.com/esdoc-ecmascript-proposal-plugin/-/esdoc-ecmascript-proposal-plugin-1.0.0.tgz#390dc5656ba8a2830e39dba3570d79138df2ffd9"
   integrity sha1-OQ3FZWuoooMOOdujVw15E43y/9k=
 
-"esdoc@github:pzuraq/esdoc#015a342":
+esdoc@pzuraq/esdoc#015a342:
   version "1.0.4"
   resolved "https://codeload.github.com/pzuraq/esdoc/tar.gz/015a3426b2e53b2b0270a9c00133780db3f1d144"
   dependencies:
